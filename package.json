@@ -1,0 +1,12 @@
+{
+  "name": "ts-init",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kohski/ts-init.git",
+  "author": "kohski <kosukekimura0528@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "typescript": "^4.6.4"
+  }
+}
